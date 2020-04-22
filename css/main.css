@@ -1,0 +1,35 @@
+html {
+  font-family: "Noto Serif", serif;
+}
+
+hr {
+  border-color: #70ad55;
+  opacity: .25;
+}
+
+textarea {
+  height: 10em;
+}
+
+.top-banner {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+footer {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+.greenbtn {
+  background-color: #6e8c62;
+  border-color: #6e8c62;
+}
+
+fieldset {
+  border: none;
+}
+
+.greentext {
+  color: #70ad55;
+}
